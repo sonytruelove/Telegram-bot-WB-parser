@@ -1,0 +1,29 @@
+{
+  
+  "name": "telegram-bot",
+  "version": "0.0.1",
+  "description": "Telegram bot men shoes parser",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server1.js"
+  },
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0",
+    "simple-oauth2": "^3.0.0",
+    "node-telegram-bot-api": "^0.58.0",
+    "axios": "^0.27.2",
+    "node-xlsx": "^0.21.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/telegram-bot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
